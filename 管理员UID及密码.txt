@@ -1,0 +1,3 @@
+UID: 20230322
+password: ctms2023
+管理员UID和密码唯一。
